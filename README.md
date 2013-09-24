@@ -19,6 +19,9 @@ Please refer to the below screen shot.
 6. Click the "Generate" button.
 7. Run the rake deploy command of Octopress to publish the blogs to Github Pages.
 
+## Known issues
+
+This tool only save the html code of the blog posts to the markdown file, it works in most cases. But I do found some issues when parsing the highlighted code.
 
 ## Requirements
 
